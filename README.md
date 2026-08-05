@@ -16,8 +16,6 @@ Por termos criado várias páginas e separado tudo em pastas, decidimos postar e
 # Sobre o programa:
 Como tema de nossa atividade, decidimos criar uma página de uma concessionária de veículos que nomeamos "Cuiudos".
 
-Para o funcionamento correto do código, o arquivo que deve ser executado é o "cuiudos.html"
-
 O arquivo principal, da página inicial, é o "cuiudos.html". Outros arquivos como "cuiudos-jeep.html" ou "cuiudos-lancer.html" são páginas específicas voltadas para os carros selecionados. Todas estão contidas na pasta "paginas".
 
 Também utilizamos imagens para os carros e a loja, localizadas na pasta "imagens".
