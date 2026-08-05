@@ -8,7 +8,7 @@ Rafael Souza, Alberto Suave, Mahgid Thomé.
 Todos do 6° período de engenharia da computação.
 
 # Obs:
-Por termos criado várias páginas e separado tudo em pastas, decidimos postar em um repositório.
+Por termos criado várias páginas e separado tudo em pastas, decidimos postar em um repositório. A pasta que contém tudo é chamada "cuiudos".
 
 # Sobre o programa:
 Como tema de nossa atividade, decidimos criar uma página de uma concessionária de veículos que nomeamos "Cuiudos".
